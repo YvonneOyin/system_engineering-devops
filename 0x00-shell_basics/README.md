@@ -1,0 +1,1 @@
+Here are a few basic shell commands you can directly run for different purposes (each file name describes what each command does)
